@@ -1,11 +1,12 @@
 body {
-  background-color: black;
+  background-color: pink;
+background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e0/ce/85/sunset-beach.jpg?w=900&h=500&s=1");
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
-  font-family: Georgia, serif;
+  font-family: arial, serif;
 }
 
 html{
@@ -20,7 +21,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: pink;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -34,7 +35,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: blue;
 }
 
 #start{
